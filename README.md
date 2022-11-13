@@ -1,4 +1,4 @@
-![logo](https://github.com/Sonualam-bot/Sonualam-bot/blob/main/I'm%20Muhammad%20Sonu%20(1).png)
+<!-- ![logo](https://github.com/Sonualam-bot/Sonualam-bot/blob/main/I'm%20Muhammad%20Sonu%20(1).png) -->
 
 <h1 align="center">Hi 👋, I'm Md. Sonu Alam</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
