@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sonualam1599@gmail.com**
 
-- ⚡ Fun fact **I am funny, a weeb too😏**
+- ⚡ Fun fact **I google a lot😏**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
