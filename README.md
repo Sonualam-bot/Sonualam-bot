@@ -130,6 +130,14 @@ Full-stack social media application built using the **MERN stack**.
 
 🔗 [Verify certificate](https://www.boot.dev/certificates/6b2902fc-0553-411d-8bfd-e77651ff4deb)
 
+### JavaScript Algorithms and Data Structures, freeCodeCamp
+
+<a href="https://www.freecodecamp.org/certification/fcc5351a9fe-fd4b-4488-ad37-96dbdfb46e42/javascript-algorithms-and-data-structures">
+  <img src="https://img.shields.io/badge/freeCodeCamp-JavaScript%20Algorithms%20%26%20Data%20Structures-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp JavaScript Algorithms and Data Structures certification" />
+</a>
+
+🔗 [Verify certificate](https://www.freecodecamp.org/certification/fcc5351a9fe-fd4b-4488-ad37-96dbdfb46e42/javascript-algorithms-and-data-structures)
+
 ---
 
 ## 📚 Currently Learning
