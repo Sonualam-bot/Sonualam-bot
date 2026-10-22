@@ -120,10 +120,23 @@ Full-stack social media application built using the **MERN stack**.
 
 ---
 
+## 🏅 Certifications
+
+### Introduction to Python, Boot.dev
+
+<a href="https://www.boot.dev/certificates/6b2902fc-0553-411d-8bfd-e77651ff4deb">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/6b2902fc-0553-411d-8bfd-e77651ff4deb.jpeg?v=1792686910" width="420" alt="Boot.dev Introduction to Python course certificate" />
+</a>
+
+🔗 [Verify certificate](https://www.boot.dev/certificates/6b2902fc-0553-411d-8bfd-e77651ff4deb)
+
+---
+
 ## 📚 Currently Learning
 
 I'm currently going deeper into:
 
+- **Python**
 - **Backend Engineering**
 - **Node.js internals**
 - **PostgreSQL & Redis**
