@@ -130,6 +130,14 @@ Full-stack social media application built using the **MERN stack**.
 
 🔗 [Verify certificate](https://www.boot.dev/certificates/6b2902fc-0553-411d-8bfd-e77651ff4deb)
 
+### Learn Linux, Boot.dev
+
+<a href="https://www.boot.dev/certificates/7c475c75-f722-4778-930a-083a25dc541f">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7c475c75-f722-4778-930a-083a25dc541f.jpeg?v=1765871841" width="420" alt="Boot.dev Learn Linux course certificate" />
+</a>
+
+🔗 [Verify certificate](https://www.boot.dev/certificates/7c475c75-f722-4778-930a-083a25dc541f)
+
 ### JavaScript Algorithms and Data Structures, freeCodeCamp
 
 <a href="https://www.freecodecamp.org/certification/fcc5351a9fe-fd4b-4488-ad37-96dbdfb46e42/javascript-algorithms-and-data-structures">
